@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Longobucco Stefabi  
+- **Nombre:** Longobucco Stefano
 - **Comisión:** M2025-16
 
 ## 📂 Descripción del Repositorio  
